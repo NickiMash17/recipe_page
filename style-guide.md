@@ -23,6 +23,24 @@ The designs were created to the following widths:
 - Rose 800: hsl(332, 51%, 32%)
 - Rose 50: hsl(330, 100%, 98%)
 
+
+
+White: #FFFFFF
+
+Stone 100: #F2E4D3
+
+Stone 150: #E5D6C8
+
+Stone 600: #4F4A3B
+
+Stone 900: #3C2F18
+
+Brown 800: #9E6B3B
+
+Rose 800: #9F2C55
+
+Rose 50: #F9D9E6
+
 ## Typography
 
 ### Body Copy
